@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order-gateway/order-gatway.iml" filepath="$PROJECT_DIR$/order-gateway/order-gatway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-in-eureka/order-in-eureka.iml" filepath="$PROJECT_DIR$/order-in-eureka/order-in-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/order-manager.iml" filepath="$PROJECT_DIR$/.idea/order-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-back/orderBack.iml" filepath="$PROJECT_DIR$/order-back/orderBack.iml" />
+    </modules>
+  </component>
+</project>
