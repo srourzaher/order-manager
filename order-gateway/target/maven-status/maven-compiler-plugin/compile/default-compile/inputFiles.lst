@@ -1,6 +1,6 @@
-C:\dev\workspace-new\order-supp\src\main\java\com\order\gatway\exception\JwtTokenMissingException.java
-C:\dev\workspace-new\order-supp\src\main\java\com\order\gatway\CloudGatewayApp.java
-C:\dev\workspace-new\order-supp\src\main\java\com\order\gatway\util\JwtUtil.java
-C:\dev\workspace-new\order-supp\src\main\java\com\order\gatway\filter\JwtAuthenticationFilter.java
-C:\dev\workspace-new\order-supp\src\main\java\com\order\gatway\config\GatewayConfig.java
-C:\dev\workspace-new\order-supp\src\main\java\com\order\gatway\exception\JwtTokenMalformedException.java
+C:\dev\workspace-new\order-manager\order-gateway\src\main\java\com\order\gatway\filter\JwtAuthenticationFilter.java
+C:\dev\workspace-new\order-manager\order-gateway\src\main\java\com\order\gatway\config\GatewayConfig.java
+C:\dev\workspace-new\order-manager\order-gateway\src\main\java\com\order\gatway\exception\JwtTokenMalformedException.java
+C:\dev\workspace-new\order-manager\order-gateway\src\main\java\com\order\gatway\CloudGatewayApp.java
+C:\dev\workspace-new\order-manager\order-gateway\src\main\java\com\order\gatway\util\JwtUtil.java
+C:\dev\workspace-new\order-manager\order-gateway\src\main\java\com\order\gatway\exception\JwtTokenMissingException.java

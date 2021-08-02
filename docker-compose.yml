@@ -1,0 +1,26 @@
+version: '2'
+services:
+  eureka:
+    image: order-eureka
+    ports:
+    - "8761:8761"
+    networks:
+      - local
+  gatway:
+    image: order-gateway
+    ports:
+    - "8085:8085"
+    networks:
+      - local
+  order-back:
+    image: order-back-image
+    ports:
+      - "8086:8086"
+    networks:
+      - local
+networks:
+  local:
+    driver: bridge
+
+
+

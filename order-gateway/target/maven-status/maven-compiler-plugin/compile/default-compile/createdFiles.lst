@@ -1,6 +1,6 @@
-com\order\gatway\util\JwtUtil.class
 com\order\gatway\exception\JwtTokenMissingException.class
-com\order\gatway\config\GatewayConfig.class
-com\order\gatway\CloudGatewayApp.class
 com\order\gatway\exception\JwtTokenMalformedException.class
 com\order\gatway\filter\JwtAuthenticationFilter.class
+com\order\gatway\util\JwtUtil.class
+com\order\gatway\config\GatewayConfig.class
+com\order\gatway\CloudGatewayApp.class

@@ -1,0 +1,19 @@
+server:
+  port: 8085
+
+jwt:
+  secret: secretkey
+
+spring:
+  jackson:
+    default-property-inclusion: NON_NULL
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://order-eureka-service:8761/eureka
+    instance:
+      hostname: order-gateway-service
+      nonSecurePort: 8085
